@@ -35,7 +35,7 @@
 <br>
 
 <div align="center">
-  <img width="200" alt="octocat-1759860023439" src="https://github.com/user-attachments/assets/1d927dcd-39a4-46e5-a3f8-98cc38e638bf"/>
+  <img width="200" alt="octocat" src="/assets/octocat.png"/>
   <p>“In real open source, you have the right to control your own destiny” <br> Linus Torvalds</p>
 </div>
 
