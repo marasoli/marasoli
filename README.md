@@ -35,7 +35,7 @@
 <br>
 
 <div align="center">
-  <img width="200" alt="octocat" src="/assets/octocat.png"/>
+  <img width="200" alt="octocat" src="./assets/octocat.png"/>
   <p>“In real open source, you have the right to control your own destiny” <br> Linus Torvalds</p>
 </div>
 
