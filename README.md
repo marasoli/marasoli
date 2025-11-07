@@ -2,20 +2,19 @@
 
 <div align="center">
   
-  <b>`B O A S  V I N D A S !`</b>
-  <br>
-  <p>Olá! Eu sou a <b>Mariana Rafaela</b>, desenvolvedora em início de carreira explorando o <b>ecossistema Python</b> com foco em <b>Inteligência Artificial</b>. Também desenvolvi um conhecimento estruturado em Front-End por meio de pequenos projetos.</p>
+  <b>`B O A S  V I N D A S`</b>
+  <p>Olá, eu sou a <b>Mariana Rafaela</b>! <br> Estou desenvolvendo habilidades em back-end e sou desenvolvedora front-end</p>
 </div>
 
 <div align="center" width="100%">
-  <img alt="typing-svg" src="https://readme-typing-svg.demolab.com?font=Iosevka&color=EB1B0F&width=900&size=22&center=true&lines=Graduada+em+Analise+e+Desenvolvimento+de+Sistemas;Iniciando+carreira+em+Back-End;Explorando+Inteligencia+Artificial+e+Machine+Learning"/>
+  <img alt="typing-svg" src="https://readme-typing-svg.demolab.com?font=Iosevka&color=EB1B0F&width=900&size=22&center=true&lines=Graduada+em+Analise+e+Desenvolvimento+de+Sistemas;Iniciando+conhecimento+em+back-end+com+Python;Explorando+Inteligencia+Artificial+e+Machine+Learning"/>
 </div>
 
 <br>
 
 <div align="center" width="100%">
-  <img height=180 align="center" alt="github-stats" src="https://github-readme-stats.vercel.app/api/?username=marasoli&show_icons=true&count_private=true&rank_icon=github&theme=transparent&font=Iosevka&locale=pt-br"/>
-  <img height=180 align="center" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marasoli&layout=compact&langs_count=16&theme=transparent&font=Iosevka&locale=pt-br"/>
+  <img align="center" alt="github-stats" src="https://github-readme-stats.vercel.app/api/?username=marasoli&show_icons=true&count_private=true&rank_icon=github&theme=transparent&font=Iosevka&locale=pt-br"/>
+  <img align="center" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marasoli&layout=compact&langs_count=16&theme=transparent&font=Iosevka&locale=pt-br"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -34,7 +33,7 @@
 
 <div align="center">
   <img width="200" alt="octocat" src="./assets/octocat.png"/>
-  <p>“In real open source, you have the right to control your own destiny” <br> Linus Torvalds</p>
+  <p><b>“In real open source, you have the right to control your own destiny”</b> <br> Linus Torvalds</p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB1B0F&height=100&section=footer"/>
