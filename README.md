@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img alt="typing-svg" src="https://readme-typing-svg.demolab.com?font=Iosevka&color=EB1B0F&width=900&size=22&center=true&lines=Graduada+em+Analise+e+Desenvolvimento+de+Sistemas;Iniciando+conhecimento+em+back-end+com+Python;Explorando+desenvolvimmento+de+Inteligencia+Artificial"/>
+  <img alt="typing-svg" src="https://readme-typing-svg.demolab.com?font=Iosevka&color=EB1B0F&width=900&size=22&center=true&lines=Graduada+em+Analise+e+Desenvolvimento+de+Sistemas;Iniciando+conhecimento+em+back-end+com+Python;Explorando+desenvolvimento+de+Inteligencia+Artificial"/>
 </div>
 
 <br>
